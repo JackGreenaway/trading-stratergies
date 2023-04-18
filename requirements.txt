@@ -1,0 +1,9 @@
+pandas
+numpy
+yfinance
+sklearn
+tensorflow
+keras
+kersa-tuner
+sqlalchemy
+matplotlib
